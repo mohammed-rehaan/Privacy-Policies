@@ -37,6 +37,7 @@ We may update this Privacy Policy to reflect changes in our practices. We encour
 ### 8. Contact Us  
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
 **Email:** turfspace.app@gmail.com  
+**Dev Email:** mohammedrehaan08@gmail.com  
 
 ---  
 
